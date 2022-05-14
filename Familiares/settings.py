@@ -55,6 +55,9 @@ ROOT_URLCONF = 'Familiares.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        # El directorio a continuacion tiene que ser reemplazado por el directorio donde se encuentre
+        # el archivo templates luego de descargar el repositorio.
+        # Dentro de la carpeta raiz, este se encuentra en Familiares/AppFamilia
         'DIRS': ['C:/Nico/Python/ProyectoDjango/Familiares/AppFamilia/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
