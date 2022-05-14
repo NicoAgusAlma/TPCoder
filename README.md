@@ -12,7 +12,7 @@ Para poder hacer funcionar esto hay que modificar el directorio donde se encuent
 ## ❔ Como hacer esto?
 Para configurar la carpeta con los templates, seguir las siguientes instrucciones:
 
-* Descargar el repositorio a la comptutadora.
+* Descargar el repositorio a la computadora.
 * Abrir la carpeta raiz con Visual Studio Code.
 * Editar el archivo settings.py encontrado dentro de la carpeta raiz Familiares/Familiares colocando alli el directorio donde se encuentra la carpeta templates (esto esta comentado dentro de settings.py para encontrarlo facilmente).
 
